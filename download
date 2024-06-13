@@ -1,1 +1,17 @@
 <h1>Music files</h1>
+<h5>Go! SMP Theme song©</h5>
+<audio controls>
+    <source src="https://sndup.net/89kyb/d" type="audio/mp3">
+</audio><br>
+<h5>Go! SMP Intro</h5>
+<audio controls>
+    <source src="https://sndup.net/pqrh3/d" type="audio/mp3">
+</audio>
+<h5>Building dreams©</h5>
+<audio controls>
+    <source src="https://dl.sndup.net/rwprz/Building%20Dreams%20%7C%20Go!%20SMP.mp3" type="audio/mp3">
+</audio>
+<h5>Background  Music</h5>
+<audio controls>
+    <source src="https://dl.sndup.net/gr8df/Go!%20SMP%20Background.mp3" type="audio/mp3">
+</audio>
